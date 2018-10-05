@@ -13,5 +13,4 @@ def reverse_each_word (string)
     split_string.collect do |word|
       string_reverse << word.reverse
     end
-
 end
